@@ -31,17 +31,14 @@ I am a **Computer Scientist, Researcher, and Adjunct Professor** specializing in
 
 ##  Featured Projects & Research Implementation
 
-###  MethylC-Analyzer
-A command-line software tool utilizing Python and statistical modeling designed to process and interpret high-resolution genomic data and DNA methylation patterns.
-
-###  Predictive Crop Modeling
-Implementation of optimized ensemble machine learning models to predict peanut and pecan crop yields by analyzing climate impact factors and food safety metrics in Central Georgia agriculture.
-
 ###  Target Detection Project
 Advanced machine learning pipelines utilizing feature extraction and sparse representation to accurately classify and detect targets within complex spatial-spectral hyperspectral datasets.
 
 ###  Biometric Recognition Project
 A deep face recognition architecture designed for cross-domain matching between thermal and visible spectra, leveraging TensorFlow, PyTorch, and GANs to bridge domain gaps and extract robust facial features.
+
+###  Predictive Crop Modeling
+Implementation of optimized ensemble machine learning models to predict peanut and pecan crop yields by analyzing climate impact factors and food safety metrics in Central Georgia agriculture.
 
 ---
 
