@@ -15,11 +15,7 @@ I am a **Computer Scientist, Researcher, and Adjunct Professor** specializing in
 ## Education
 
 * **Doctor of Computer Science in Information Science and Engineering** | Ritsumeikan University, Japan
-  * *Honors:* Japanese Government Scholarship (Monbukagakusho) Recipient, 2015 KOKUSAITEKI Research Fund Recipient, Student Paper Award Recipient.
-  * *Research:* Conceptualized image registration and segmentation algorithms in organ anatomical structure analysis from CT images; expanded computer-aided diagnosis (CAD) systems in assessing locoregional therapy of hepatocellular carcinoma.
 * **Master of Science in Signal and Information Processing** | Hainan University, China
-  * *Honors:* National Scholarship of Chinese Government.
-  * *Research:* Researched medical volume data watermarking implementation by extracting features on a 3D transformation domain.
 
 ---
 
@@ -29,8 +25,7 @@ I am a **Computer Scientist, Researcher, and Adjunct Professor** specializing in
 | **Programming & Software** | Python (Advanced), Java, C++, MATLAB, SQL, GUI Design, Web Scraping |
 | **Data Science & ML Toolkits** | PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, CUDA, Linux environments |
 | **Bioinformatics & Agri-AI** | DNA methylation analysis, genomic feature extraction, predictive yield modeling |
-| **Medical Image Processing** | Deep Learning architectures, CNNs, Transformers, 3D image registration & segmentation, CAD systems |
-| **Academic Leadership** | Course Management, Student Mentoring, Curriculum Development, Lesson Planning |
+| **Medical Image Processing** | Deep Learning architectures, Transformers, 3D image registration & segmentation, CAD systems |
 
 ---
 
