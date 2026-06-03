@@ -17,14 +17,13 @@ I am a **Computer Scientist, Researcher, and Adjunct Professor** specializing in
 * **Doctor of Computer Science in Information Science and Engineering** | Ritsumeikan University, Japan
   * *Honors:* Japanese Government Scholarship (Monbukagakusho) Recipient, 2015 KOKUSAITEKI Research Fund Recipient, Student Paper Award Recipient.
   * *Research:* Conceptualized image registration and segmentation algorithms in organ anatomical structure analysis from CT images; expanded computer-aided diagnosis (CAD) systems in assessing locoregional therapy of hepatocellular carcinoma.
-* **Master of Science in Signal and Information Processing** | Hainan University, China[cite: 2]
+* **Master of Science in Signal and Information Processing** | Hainan University, China
   * *Honors:* National Scholarship of Chinese Government.
   * *Research:* Researched medical volume data watermarking implementation by extracting features on a 3D transformation domain.
 
 ---
 
-##  Tech Stack & Core Competencies
-
+##  Tech Skills
 | Category | Technologies / Frameworks |
 | :--- | :--- |
 | **Programming & Software** | Python (Advanced), Java, C++, MATLAB, SQL, GUI Design, Web Scraping |
@@ -44,7 +43,7 @@ A command-line software tool utilizing Python and statistical modeling designed 
 Implementation of optimized ensemble machine learning models to predict peanut and pecan crop yields by analyzing climate impact factors and food safety metrics in Central Georgia agriculture.
 
 ###  Target Detection Project
-Advanced machine learning pipelines utilizing feature extraction and sparse representation to accurately classify and detect targets within complex spatial-spectral hyperspectral datasets[cite: 2].
+Advanced machine learning pipelines utilizing feature extraction and sparse representation to accurately classify and detect targets within complex spatial-spectral hyperspectral datasets.
 
 ###  Biometric Recognition Project
 A deep face recognition architecture designed for cross-domain matching between thermal and visible spectra, leveraging TensorFlow, PyTorch, and GANs to bridge domain gaps and extract robust facial features.
