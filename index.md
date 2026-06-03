@@ -47,8 +47,8 @@ A deep face recognition architecture designed for cross-domain matching between 
 
 ### Connect with Me
 * **Email:** [Link to Email](dongchunhua89@gmail.com)
-* **Google Scholar:** [Link to Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=gyLtBJQAAAAJ&hl=en))
-* **LinkedIn:** [Link to LinkedIn]((https://www.linkedin.com/in/chunhua-dong-922183281/)
+* **Google Scholar:** [Link to Scholar](https://scholar.google.com](https://scholar.google.com/citations?user=gyLtBJQAAAAJ&hl=en))
+* **LinkedIn:** [Link to LinkedIn](https://www.linkedin.com/in/chunhua-dong-922183281/)
  
 
 
